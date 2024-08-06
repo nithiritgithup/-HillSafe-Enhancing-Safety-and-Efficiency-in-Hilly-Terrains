@@ -1,5 +1,3 @@
-Certainly! Here's a sample README file for your project "HillSafe: Enhancing Safety and Efficiency in Hilly Terrains." You can adjust it to fit the specifics of your project as needed.
-
 ---
 
 # HillSafe: Enhancing Safety and Efficiency in Hilly Terrains
